@@ -1,12 +1,18 @@
 ---
 layout: home
-title: A simple starter kit for Eleventy
-postsHeading: Latest posts
-archiveButtonText: See all posts
-metaDesc: 'Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.'
-socialImage: ''
+title: E aí, pessoal! Tudo bem?
+metaTitle: José Luiz Coe - Site Oficial
+metaDesc: ""
+postsHeading: "Últimos posts:"
+archiveButtonText: Veja mais
+socialImage: /images/demo-image-2.jpg
 ---
+Meu nome é José Luiz Coe. Sou pai do Bento, marido da Priscila. Nasci no Rio de Janeiro/RJ, fui criado em Natal/RN, trabalho para uma empresa de Curitiba e hoje moro em São Paulo.
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+Sou formado em Engenharia da Computação e desenvolvo produtos para Internet desde 1998. Já trabalhei em empresas como UOL, Catho, Ironhack, Getninjas e hoje atuo como Tech coordinator e Líder do Capítulo (Chapter Leader) de front-end no [Olist](https://www.olist.com/).
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Além do desenvolvimento web front-end, me interesso por arquitetura de software, fotografia, design, ciência, inovação, empreendedorismo, liderança, natação, futebol, viagem e piadas ruins.
+
+Mantenho um [canal desatualizado no Youtube](https://www.youtube.com/joseluizcoe) sobre tecnologia, carreira, paternidade e outros assuntos do meu interesse.
+
+Este é o meu site eternamente incompleto. Seja bem vinda.
