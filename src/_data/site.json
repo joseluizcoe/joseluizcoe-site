@@ -1,7 +1,7 @@
 {
-  "showThemeCredit": true,
+  "showThemeCredit": false,
   "name": "José Luiz Coe",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "shortDesc": "joseluizcoe.com",
   "url": "https://joseluizcoe.com",
   "authorEmail": "joseluizcoe@gmail.com",
   "authorHandle": "@joseluizcoe",
