@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: "Recrutador de TI: você sabe por que trabalhamos com tecnologia?"
+socialImage: /images/1550224172707.jfif
 date: 2012-03-30T03:12:55.816Z
 tags: []
 ---
