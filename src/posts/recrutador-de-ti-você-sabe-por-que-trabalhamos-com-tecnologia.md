@@ -1,0 +1,31 @@
+---
+layout: layouts/post.njk
+title: "Recrutador de TI: você sabe por que trabalhamos com tecnologia?"
+date: 2012-03-30T03:12:55.816Z
+tags: []
+---
+Quem trabalha com tecnologia há um tempo e tem um perfil ativo no Linkedin costuma receber diariamente vários contatos de recrutadores. Não é diferente comigo. Todos os dias eu recebo diversas mensagens de recrutadores. A maioria delas tem o mesmo script:
+
+> "Olá, José. Gostei muito do seu perfil. Tenho uma oportunidade para empresa X que acabou de receber 100M de investimento e está procurando uma galerinha fera em front-end para um produto que vai bombar. O salário é Y, tem interesse?".
+
+Por que eu ignoro este tipo de mensagens? Na maioria das vezes, ela vem de 2, 3 ou 4 recrutadores da mesma empresa. Pra mim, fica claro que é uma empresa desorganizada. Talvez, se eu fosse formado em administração de empresas, aceitaria a proposta pelo desafio de organizá-la, mas não é o caso.
+
+Quando alguém chega pra mim e fala que tem uma oportunidade, não fala da oportunidade e já me diz o salário, eu digo não, antes mesmo de saber a oportunidade - não importa o quão alto é o salário. Com o tempo, a experiência me mostrou que empresa que só tem um "bom salário" para oferecer, só dão dor de cabeça e, no final, a experiência não vale a pena porque eu vou ter que conviver com vários profissionais que estão ali pelo mesmo motivo: salário. Já vi muita gente desistir de trabalhar com tecnologia depois de entrar no loop de "trocar de emprego só por causa de aumento de salário e ter experiências ruins e trocar e trocar e trocar…". Uma hora cansa.
+
+Eu sou um cara curioso. Gosto de saber "o que acontece depois". Gosto de saber o que dá certo e, principalmente, o que dá errado depois de um tempo. Pra mim, a experiência é construída assim. Você toma decisão, vive o que decidiu e avalia as consequências. Em 1998, quando eu (e toda a internet) decidi fazer um site usando "frames" e "tabelas", que fazia sentido naquela época, pude observar que alguns anos depois ficou inviável mantê-lo, foi quando comecei a trabalhar com layouts sem tabelas. Eu vi de perto os problemas decorrentes daquela decisão e, sempre que me deparava com algo parecido eu já tinha "na ponta da língua" as consequências daquela escolha. Seguir o mesmo caminho novamente era uma opção, mas saber o que precisaria ser resolvido faz toda diferença e isso só sabe quem fica pra ver "o que acontece depois".
+
+Infelizmente, quando o profissional participa apenas da fase de tomar decisão e muda para outro emprego ou de projeto só por causa do salário ou status, ele acaba não sabendo a consequência das escolhas feitas, logo, pode estar trazendo mais problemas para o novo projeto ao invés de "aproveitar a experiência" do anterior, sem falar que em breve ele também vai trocar sua empresa pelo mesmo motivo: salário mais alto. Sempre tem empresa pagando mais, acredite.
+
+Quem ama trabalhar com tecnologia gosta de ser desafiado. É o desafio que nos mantém interessados pelo que fazemos. Taí os sites de desafio de programação que não me deixam mentir, pessoas passam dias e horas tentando resolver problemas de graça.
+
+Com o tempo, eu decidi parar de ignorar e comecei a aceitar TODOS convites e responder todas as mensagens dos recrutadores um a um, muito mais para matar minha curiosidade e conhecer a realidade das empresas e pessoas que estão do outro lado. Conforme fui respondendo e tendo contato com recrutadores de empresas do mundo todo, comecei a perceber um comportamento bem inconveniente, o principal é presumir que me conhece só porque leu meu currículo de tecnologia no Linkedin, o outro é conversar comigo como se eu fosse um "nerd deslumbrado que adora café, cultura pop, star wars, etc" (sim, tem muitos, mas eu não sigo esse estereótipo e detesto quem espera isso de mim, já é um filtro também :) ).
+
+Muitos recrutadores não sabem, mas boa parte das pessoas que trabalham com tecnologia se interessam por outros assuntos, tais como: música, viagem, fotografia, jornalismo, filosofia, etc. E isso a gente não coloca no currículo. Eu, por exemplo, além de trabalhar como desenvolvedor na Catho, também sou fotógrafo de família e professor na Ironhack São Paulo.
+
+Em agosto de 2018, pouco antes do meu filho nascer, recebi contatos de diversas empresas com salários bem acima do que eu recebo na Catho, algumas me oferecendo o dobro do meu salário. Quando eu dizia que na Catho eu tinha direito a fazer 2 dias de home office, 5 dias úteis mais 15 dias corridos de licença paternidade e que ainda teria 1 mês de férias a ser tirado após esse período, que eu poderia acompanhar meu filho em todas as consultas ao pediatra sem ônus, bastaria mostrar o comprovante de que fui que estaria tudo bem; todos, eu disse TODOS recrutadores tiveram a mesma reação: não me responderam mais.
+
+É notório que o mercado de tecnologia tem deficit de profissionais, mas antes de oferecer um bom salário, é importante entender as necessidades dos profissionais da área de tecnologia e lembrar que somos pessoas. Pessoas que tem família, que tem vida fora da empresa. Dizer que eu vou trabalhar 5h ao invés de 8h por dia, por exemplo, pra mim seria uma proposta irresistível, eu aceitaria receber bem menos, mas ninguém nunca fez essa proposta.
+
+Não trabalhamos com tecnologia só porque "paga bem". Trabalhamos com tecnologia porque é algo desafiador, porque é viciante, porque nos dá a possibilidade de trabalhar de qualquer lugar do mundo, porque podemos inventar coisas novas, porque podemos mudar a vida das pessoas sem sair de casa, porque podemos trabalhar em grupo sem precisar estar junto e mesmo assim sermos muito produtivos trabalhando poucas horas (eu passaria horas enumerando os motivos).
+
+Enquanto as empresas insistirem na fórmula de atrair e reter talentos só com dinheiro, continuarão: inflando os salários, incentivando o "pula pula" de empregos, promovendo gente que não tem capacidade de liderar, desmotivando suas equipes e jogando fora seus melhores profissionais pelo simples fato de não entenderem que profissionais raros sabem seu valor e não entram nessa roda.
